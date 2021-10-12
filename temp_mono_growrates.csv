@@ -1,0 +1,361 @@
+species,strain,temp,day,lastday,N,n_prev,tempf,type,r,r_period,tempcent,temp2
+Lemna,2,3,0,NA,5,NA,3,vegetative,NA,NA,-17,289
+Lemna,3,3,0,NA,5,NA,3,vegetative,NA,NA,-17,289
+Lemna,5,3,0,NA,5,NA,3,vegetative,NA,NA,-17,289
+Lemna,8,3,0,NA,5,NA,3,vegetative,NA,NA,-17,289
+Lemna,6,3,0,NA,5,NA,3,vegetative,NA,NA,-17,289
+Lemna,7,3,0,NA,5,NA,3,vegetative,NA,NA,-17,289
+Lemna,2,15,0,NA,5,NA,15,vegetative,NA,NA,-5,25
+Lemna,3,15,0,NA,5,NA,15,vegetative,NA,NA,-5,25
+Lemna,5,15,0,NA,5,NA,15,vegetative,NA,NA,-5,25
+Lemna,8,15,0,NA,5,NA,15,vegetative,NA,NA,-5,25
+Lemna,6,15,0,NA,5,NA,15,vegetative,NA,NA,-5,25
+Lemna,7,15,0,NA,5,NA,15,vegetative,NA,NA,-5,25
+Lemna,2,20,0,NA,5,NA,20,vegetative,NA,NA,0,0
+Lemna,3,20,0,NA,5,NA,20,vegetative,NA,NA,0,0
+Lemna,5,20,0,NA,5,NA,20,vegetative,NA,NA,0,0
+Lemna,6,20,0,NA,5,NA,20,vegetative,NA,NA,0,0
+Lemna,8,20,0,NA,5,NA,20,vegetative,NA,NA,0,0
+Lemna,7,20,0,NA,5,NA,20,vegetative,NA,NA,0,0
+Lemna,2,25,0,NA,5,NA,25,vegetative,NA,NA,5,25
+Lemna,3,25,0,NA,5,NA,25,vegetative,NA,NA,5,25
+Lemna,5,25,0,NA,5,NA,25,vegetative,NA,NA,5,25
+Lemna,6,25,0,NA,5,NA,25,vegetative,NA,NA,5,25
+Lemna,8,25,0,NA,5,NA,25,vegetative,NA,NA,5,25
+Lemna,7,25,0,NA,5,NA,25,vegetative,NA,NA,5,25
+Lemna,2,30,0,NA,5,NA,30,vegetative,NA,NA,10,100
+Lemna,3,30,0,NA,5,NA,30,vegetative,NA,NA,10,100
+Lemna,5,30,0,NA,5,NA,30,vegetative,NA,NA,10,100
+Lemna,6,30,0,NA,5,NA,30,vegetative,NA,NA,10,100
+Lemna,8,30,0,NA,5,NA,30,vegetative,NA,NA,10,100
+Lemna,7,30,0,NA,5,NA,30,vegetative,NA,NA,10,100
+Lemna,2,37,0,NA,5,NA,37,vegetative,NA,NA,17,289
+Lemna,3,37,0,NA,5,NA,37,vegetative,NA,NA,17,289
+Lemna,5,37,0,NA,5,NA,37,vegetative,NA,NA,17,289
+Lemna,8,37,0,NA,5,NA,37,vegetative,NA,NA,17,289
+Lemna,6,37,0,NA,5,NA,37,vegetative,NA,NA,17,289
+Lemna,7,37,0,NA,5,NA,37,vegetative,NA,NA,17,289
+Lemna,2,3,8,8,5,5,3,vegetative,0,0,-17,289
+Lemna,3,3,8,8,5,5,3,vegetative,0,0,-17,289
+Lemna,5,3,8,8,5,5,3,vegetative,0,0,-17,289
+Lemna,8,3,8,8,5,5,3,vegetative,0,0,-17,289
+Lemna,6,3,8,8,5,5,3,vegetative,0,0,-17,289
+Lemna,7,3,8,8,5,5,3,vegetative,0,0,-17,289
+Lemna,2,15,8,8,12,5,15,vegetative,0.109433592,0.109433592,-5,25
+Lemna,3,15,8,8,12,5,15,vegetative,0.109433592,0.109433592,-5,25
+Lemna,5,15,8,8,14,5,15,vegetative,0.128702427,0.128702427,-5,25
+Lemna,8,15,8,8,15,5,15,vegetative,0.137326536,0.137326536,-5,25
+Lemna,6,15,8,8,12,5,15,vegetative,0.109433592,0.109433592,-5,25
+Lemna,7,15,8,8,13,5,15,vegetative,0.119438931,0.119438931,-5,25
+Lemna,2,20,8,8,20,5,20,vegetative,0.173286795,0.173286795,0,0
+Lemna,3,20,8,8,21,5,20,vegetative,0.179385566,0.179385566,0,0
+Lemna,5,20,8,8,21,5,20,vegetative,0.179385566,0.179385566,0,0
+Lemna,6,20,8,8,19,5,20,vegetative,0.166875133,0.166875133,0,0
+Lemna,8,20,8,8,22,5,20,vegetative,0.185200568,0.185200568,0,0
+Lemna,7,20,8,8,24,5,20,vegetative,0.19607699,0.19607699,0,0
+Lemna,2,25,8,8,24,5,25,vegetative,0.19607699,0.19607699,5,25
+Lemna,3,25,8,8,25,5,25,vegetative,0.201179739,0.201179739,5,25
+Lemna,5,25,8,8,30,5,25,vegetative,0.223969934,0.223969934,5,25
+Lemna,6,25,8,8,32,5,25,vegetative,0.232037249,0.232037249,5,25
+Lemna,8,25,8,8,38,5,25,vegetative,0.253518531,0.253518531,5,25
+Lemna,7,25,8,8,29,5,25,vegetative,0.21973224,0.21973224,5,25
+Lemna,2,30,8,8,28,5,30,vegetative,0.215345825,0.215345825,10,100
+Lemna,3,30,8,8,34,5,30,vegetative,0.239615327,0.239615327,10,100
+Lemna,5,30,8,8,29,5,30,vegetative,0.21973224,0.21973224,10,100
+Lemna,6,30,8,8,40,5,30,vegetative,0.259930193,0.259930193,10,100
+Lemna,8,30,8,8,38,5,30,vegetative,0.253518531,0.253518531,10,100
+Lemna,7,30,8,8,26,5,30,vegetative,0.206082328,0.206082328,10,100
+Lemna,2,37,8,8,5,5,37,vegetative,0,0,17,289
+Lemna,3,37,8,8,5,5,37,vegetative,0,0,17,289
+Lemna,5,37,8,8,5,5,37,vegetative,0,0,17,289
+Lemna,8,37,8,8,5,5,37,vegetative,0,0,17,289
+Lemna,6,37,8,8,5,5,37,vegetative,0,0,17,289
+Lemna,7,37,8,8,5,5,37,vegetative,0,0,17,289
+Lemna,2,3,12,4,5,5,3,vegetative,0,0,-17,289
+Lemna,3,3,12,4,5,5,3,vegetative,0,0,-17,289
+Lemna,5,3,12,4,5,5,3,vegetative,0,0,-17,289
+Lemna,8,3,12,4,5,5,3,vegetative,0,0,-17,289
+Lemna,6,3,12,4,5,5,3,vegetative,0,0,-17,289
+Lemna,7,3,12,4,5,5,3,vegetative,0,0,-17,289
+Lemna,2,15,12,4,27,12,15,vegetative,0.140533246,0.202732554,-5,25
+Lemna,3,15,12,4,23,12,15,vegetative,0.127171359,0.162646892,-5,25
+Lemna,5,15,12,4,27,14,15,vegetative,0.140533246,0.164194884,-5,25
+Lemna,8,15,12,4,32,15,15,vegetative,0.154691499,0.189421425,-5,25
+Lemna,6,15,12,4,23,12,15,vegetative,0.127171359,0.162646892,-5,25
+Lemna,7,15,12,4,26,13,15,vegetative,0.137388219,0.173286795,-5,25
+Lemna,2,20,12,4,48,20,20,vegetative,0.188480258,0.218867184,0,0
+Lemna,3,20,12,4,40,21,20,vegetative,0.173286795,0.161089254,0,0
+Lemna,5,20,12,4,49,21,20,vegetative,0.190198532,0.211824465,0,0
+Lemna,6,20,12,4,45,19,20,vegetative,0.183102048,0.215555878,0,0
+Lemna,8,20,12,4,51,22,20,vegetative,0.19353231,0.210195795,0,0
+Lemna,7,20,12,4,54,24,20,vegetative,0.198295511,0.202732554,0,0
+Lemna,2,25,12,4,45,24,25,vegetative,0.183102048,0.157152165,5,25
+Lemna,3,25,12,4,52,25,25,vegetative,0.195150484,0.183091973,5,25
+Lemna,5,25,12,4,60,30,25,vegetative,0.207075554,0.173286795,5,25
+Lemna,6,25,12,4,65,32,25,vegetative,0.21374578,0.177162842,5,25
+Lemna,8,25,12,4,89,38,25,vegetative,0.239933205,0.212762553,5,25
+Lemna,7,25,12,4,55,29,25,vegetative,0.199824606,0.160009339,5,25
+Lemna,2,30,12,4,52,28,30,vegetative,0.195150484,0.154759802,10,100
+Lemna,3,30,12,4,63,34,30,vegetative,0.211141401,0.15419355,10,100
+Lemna,5,30,12,4,55,29,30,vegetative,0.199824606,0.160009339,10,100
+Lemna,6,30,12,4,64,40,30,vegetative,0.212453764,0.117500907,10,100
+Lemna,8,30,12,4,79,38,30,vegetative,0.230000828,0.182965423,10,100
+Lemna,7,30,12,4,48,26,30,vegetative,0.188480258,0.153276118,10,100
+Lemna,2,37,12,4,5,5,37,vegetative,0,0,17,289
+Lemna,3,37,12,4,5,5,37,vegetative,0,0,17,289
+Lemna,5,37,12,4,5,5,37,vegetative,0,0,17,289
+Lemna,8,37,12,4,5,5,37,vegetative,0,0,17,289
+Lemna,6,37,12,4,5,5,37,vegetative,0,0,17,289
+Lemna,7,37,12,4,5,5,37,vegetative,0,0,17,289
+Lemna,2,3,16,4,5,5,3,vegetative,0,0,-17,289
+Lemna,3,3,16,4,5,5,3,vegetative,0,0,-17,289
+Lemna,5,3,16,4,5,5,3,vegetative,0,0,-17,289
+Lemna,8,3,16,4,5,5,3,vegetative,0,0,-17,289
+Lemna,6,3,16,4,5,5,3,vegetative,0,0,-17,289
+Lemna,7,3,16,4,5,5,3,vegetative,0,0,-17,289
+Lemna,2,15,16,4,39,27,15,vegetative,0.128382733,0.091931195,-5,25
+Lemna,3,15,16,4,34,23,15,vegetative,0.119807663,0.097716577,-5,25
+Lemna,5,15,16,4,42,27,15,vegetative,0.133014482,0.110458188,-5,25
+Lemna,8,15,16,4,52,32,15,vegetative,0.146362863,0.121376954,-5,25
+Lemna,6,15,16,4,35,23,15,vegetative,0.121619384,0.104963461,-5,25
+Lemna,7,15,16,4,37,26,15,vegetative,0.1250925,0.088205344,-5,25
+Lemna,2,20,16,4,83,48,20,vegetative,0.175587668,0.136909899,0,0
+Lemna,3,20,16,4,80,40,20,vegetative,0.173286795,0.173286795,0,0
+Lemna,5,20,16,4,84,49,20,vegetative,0.17633618,0.134749125,0,0
+Lemna,6,20,16,4,76,45,20,vegetative,0.170080964,0.131017713,0,0
+Lemna,8,20,16,4,81,51,20,vegetative,0.174063203,0.11565588,0,0
+Lemna,7,20,16,4,108,54,20,vegetative,0.192043332,0.173286795,0,0
+Lemna,2,25,16,4,81,45,25,vegetative,0.174063203,0.146946666,5,25
+Lemna,3,25,16,4,95,52,25,vegetative,0.184027436,0.150658293,5,25
+Lemna,5,25,16,4,92,60,25,vegetative,0.182021917,0.106861004,5,25
+Lemna,6,25,16,4,114,65,25,vegetative,0.195422533,0.140452795,5,25
+Lemna,8,25,16,4,122,89,25,vegetative,0.199661446,0.078846169,5,25
+Lemna,7,25,16,4,90,55,25,vegetative,0.180648235,0.123119121,5,25
+Lemna,2,30,16,4,96,52,30,vegetative,0.184681892,0.153276118,10,100
+Lemna,3,30,16,4,101,63,30,vegetative,0.187855163,0.117996448,10,100
+Lemna,5,30,16,4,86,55,30,vegetative,0.177806836,0.111753528,10,100
+Lemna,6,30,16,4,88,64,30,vegetative,0.179243681,0.079613433,10,100
+Lemna,8,30,16,4,152,79,30,vegetative,0.213402663,0.163608167,10,100
+Lemna,7,30,16,4,69,48,30,vegetative,0.164041787,0.090726373,10,100
+Lemna,2,37,16,4,5,5,37,vegetative,0,0,17,289
+Lemna,3,37,16,4,5,5,37,vegetative,0,0,17,289
+Lemna,5,37,16,4,5,5,37,vegetative,0,0,17,289
+Lemna,8,37,16,4,5,5,37,vegetative,0,0,17,289
+Lemna,6,37,16,4,5,5,37,vegetative,0,0,17,289
+Lemna,7,37,16,4,5,5,37,vegetative,0,0,17,289
+Lemna,2,3,28,12,5,5,3,vegetative,0,0,-17,289
+Lemna,3,3,28,12,5,5,3,vegetative,0,0,-17,289
+Lemna,5,3,28,12,5,5,3,vegetative,0,0,-17,289
+Lemna,8,3,28,12,5,5,3,vegetative,0,0,-17,289
+Lemna,6,3,28,12,5,5,3,vegetative,0,0,-17,289
+Lemna,7,3,28,12,5,5,3,vegetative,0,0,-17,289
+Lemna,2,15,28,12,168,39,15,vegetative,0.125518788,0.121700194,-5,25
+Lemna,3,15,28,12,178,34,15,vegetative,0.127583773,0.137951919,-5,25
+Lemna,5,15,28,12,151,42,15,vegetative,0.12170864,0.106634185,-5,25
+Lemna,8,15,28,12,173,52,15,vegetative,0.126566203,0.100170656,-5,25
+Lemna,6,15,28,12,141,35,15,vegetative,0.119261499,0.116117652,-5,25
+Lemna,7,15,28,12,140,37,15,vegetative,0.119007304,0.110893709,-5,25
+Lemna,2,20,28,12,242,83,20,vegetative,0.138553565,0.08917476,0,0
+Lemna,3,20,28,12,346,80,20,vegetative,0.151321459,0.122034345,0,0
+Lemna,5,20,28,12,340,84,20,vegetative,0.150696704,0.116510735,0,0
+Lemna,6,20,28,12,252,76,20,vegetative,0.139999685,0.099891312,0,0
+Lemna,8,20,28,12,254,81,20,vegetative,0.140282013,0.095240426,0,0
+Lemna,7,20,28,12,370,108,20,vegetative,0.15371661,0.102614315,0,0
+Lemna,2,25,28,12,230,81,25,vegetative,0.136737193,0.08696918,5,25
+Lemna,3,25,28,12,327,95,25,vegetative,0.149304366,0.10300694,5,25
+Lemna,5,25,28,12,272,92,25,vegetative,0.142727291,0.090334457,5,25
+Lemna,6,25,28,12,286,114,25,vegetative,0.144519782,0.076649447,5,25
+Lemna,8,25,28,12,356,122,25,vegetative,0.152339029,0.089242474,5,25
+Lemna,7,25,28,12,263,90,25,vegetative,0.141525576,0.08936203,5,25
+Lemna,2,30,28,12,239,96,30,vegetative,0.138108059,0.076009613,10,100
+Lemna,3,30,28,12,273,101,30,vegetative,0.142858353,0.082862607,10,100
+Lemna,5,30,28,12,260,86,30,vegetative,0.141115847,0.092194528,10,100
+Lemna,6,30,28,12,214,88,30,vegetative,0.134162075,0.074053267,10,100
+Lemna,8,30,28,12,456,152,30,vegetative,0.161180532,0.091551024,10,100
+Lemna,7,30,28,12,191,69,30,vegetative,0.130101268,0.084847244,10,100
+Lemna,2,37,28,12,5,5,37,vegetative,0,0,17,289
+Lemna,3,37,28,12,5,5,37,vegetative,0,0,17,289
+Lemna,5,37,28,12,5,5,37,vegetative,0,0,17,289
+Lemna,8,37,28,12,5,5,37,vegetative,0,0,17,289
+Lemna,6,37,28,12,5,5,37,vegetative,0,0,17,289
+Lemna,7,37,28,12,5,5,37,vegetative,0,0,17,289
+Spirodela,2,3,0,NA,5,NA,3,vegetative + turion,NA,NA,-17,289
+Spirodela,3,3,0,NA,5,NA,3,vegetative + turion,NA,NA,-17,289
+Spirodela,5,3,0,NA,5,NA,3,vegetative + turion,NA,NA,-17,289
+Spirodela,8,3,0,NA,5,NA,3,vegetative + turion,NA,NA,-17,289
+Spirodela,6,3,0,NA,5,NA,3,vegetative + turion,NA,NA,-17,289
+Spirodela,7,3,0,NA,5,NA,3,vegetative + turion,NA,NA,-17,289
+Spirodela,2,15,0,NA,5,NA,15,vegetative + turion,NA,NA,-5,25
+Spirodela,3,15,0,NA,5,NA,15,vegetative + turion,NA,NA,-5,25
+Spirodela,5,15,0,NA,5,NA,15,vegetative + turion,NA,NA,-5,25
+Spirodela,6,15,0,NA,5,NA,15,vegetative + turion,NA,NA,-5,25
+Spirodela,9,15,0,NA,5,NA,15,vegetative + turion,NA,NA,-5,25
+Spirodela,10,15,0,NA,5,NA,15,vegetative + turion,NA,NA,-5,25
+Spirodela,2,20,0,NA,5,NA,20,vegetative + turion,NA,NA,0,0
+Spirodela,3,20,0,NA,5,NA,20,vegetative + turion,NA,NA,0,0
+Spirodela,5,20,0,NA,5,NA,20,vegetative + turion,NA,NA,0,0
+Spirodela,6,20,0,NA,5,NA,20,vegetative + turion,NA,NA,0,0
+Spirodela,9,20,0,NA,5,NA,20,vegetative + turion,NA,NA,0,0
+Spirodela,10,20,0,NA,5,NA,20,vegetative + turion,NA,NA,0,0
+Spirodela,2,25,0,NA,5,NA,25,vegetative + turion,NA,NA,5,25
+Spirodela,3,25,0,NA,5,NA,25,vegetative + turion,NA,NA,5,25
+Spirodela,5,25,0,NA,5,NA,25,vegetative + turion,NA,NA,5,25
+Spirodela,6,25,0,NA,5,NA,25,vegetative + turion,NA,NA,5,25
+Spirodela,9,25,0,NA,5,NA,25,vegetative + turion,NA,NA,5,25
+Spirodela,10,25,0,NA,5,NA,25,vegetative + turion,NA,NA,5,25
+Spirodela,2,30,0,NA,5,NA,30,vegetative + turion,NA,NA,10,100
+Spirodela,3,30,0,NA,5,NA,30,vegetative + turion,NA,NA,10,100
+Spirodela,5,30,0,NA,5,NA,30,vegetative + turion,NA,NA,10,100
+Spirodela,6,30,0,NA,5,NA,30,vegetative + turion,NA,NA,10,100
+Spirodela,9,30,0,NA,5,NA,30,vegetative + turion,NA,NA,10,100
+Spirodela,10,30,0,NA,5,NA,30,vegetative + turion,NA,NA,10,100
+Spirodela,2,37,0,NA,5,NA,37,vegetative + turion,NA,NA,17,289
+Spirodela,3,37,0,NA,5,NA,37,vegetative + turion,NA,NA,17,289
+Spirodela,5,37,0,NA,5,NA,37,vegetative + turion,NA,NA,17,289
+Spirodela,6,37,0,NA,5,NA,37,vegetative + turion,NA,NA,17,289
+Spirodela,9,37,0,NA,5,NA,37,vegetative + turion,NA,NA,17,289
+Spirodela,10,37,0,NA,5,NA,37,vegetative + turion,NA,NA,17,289
+Spirodela,2,3,8,8,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,3,3,8,8,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,5,3,8,8,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,8,3,8,8,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,6,3,8,8,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,7,3,8,8,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,2,15,8,8,13,5,15,vegetative + turion,0.119438931,0.119438931,-5,25
+Spirodela,3,15,8,8,12,5,15,vegetative + turion,0.109433592,0.109433592,-5,25
+Spirodela,5,15,8,8,12,5,15,vegetative + turion,0.109433592,0.109433592,-5,25
+Spirodela,6,15,8,8,10,5,15,vegetative + turion,0.086643398,0.086643398,-5,25
+Spirodela,9,15,8,8,12,5,15,vegetative + turion,0.109433592,0.109433592,-5,25
+Spirodela,10,15,8,8,14,5,15,vegetative + turion,0.128702427,0.128702427,-5,25
+Spirodela,2,20,8,8,15,5,20,vegetative + turion,0.137326536,0.137326536,0,0
+Spirodela,3,20,8,8,15,5,20,vegetative + turion,0.137326536,0.137326536,0,0
+Spirodela,5,20,8,8,16,5,20,vegetative + turion,0.145393851,0.145393851,0,0
+Spirodela,6,20,8,8,20,5,20,vegetative + turion,0.173286795,0.173286795,0,0
+Spirodela,9,20,8,8,18,5,20,vegetative + turion,0.160116731,0.160116731,0,0
+Spirodela,10,20,8,8,15,5,20,vegetative + turion,0.137326536,0.137326536,0,0
+Spirodela,2,25,8,8,14,5,25,vegetative + turion,0.128702427,0.128702427,5,25
+Spirodela,3,25,8,8,19,5,25,vegetative + turion,0.166875133,0.166875133,5,25
+Spirodela,5,25,8,8,23,5,25,vegetative + turion,0.190757038,0.190757038,5,25
+Spirodela,6,25,8,8,36,5,25,vegetative + turion,0.246760128,0.246760128,5,25
+Spirodela,9,25,8,8,29,5,25,vegetative + turion,0.21973224,0.21973224,5,25
+Spirodela,10,25,8,8,20,5,25,vegetative + turion,0.173286795,0.173286795,5,25
+Spirodela,2,30,8,8,14,5,30,vegetative + turion,0.128702427,0.128702427,10,100
+Spirodela,3,30,8,8,19,5,30,vegetative + turion,0.166875133,0.166875133,10,100
+Spirodela,5,30,8,8,18,5,30,vegetative + turion,0.160116731,0.160116731,10,100
+Spirodela,6,30,8,8,20,5,30,vegetative + turion,0.173286795,0.173286795,10,100
+Spirodela,9,30,8,8,24,5,30,vegetative + turion,0.19607699,0.19607699,10,100
+Spirodela,10,30,8,8,16,5,30,vegetative + turion,0.145393851,0.145393851,10,100
+Spirodela,2,37,8,8,8,5,37,vegetative + turion,0.058750454,0.058750454,17,289
+Spirodela,3,37,8,8,11,5,37,vegetative + turion,0.09855717,0.09855717,17,289
+Spirodela,5,37,8,8,9,5,37,vegetative + turion,0.073473333,0.073473333,17,289
+Spirodela,6,37,8,8,12,5,37,vegetative + turion,0.109433592,0.109433592,17,289
+Spirodela,9,37,8,8,10,5,37,vegetative + turion,0.086643398,0.086643398,17,289
+Spirodela,10,37,8,8,7,5,37,vegetative + turion,0.04205903,0.04205903,17,289
+Spirodela,2,3,12,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,3,3,12,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,5,3,12,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,8,3,12,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,6,3,12,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,7,3,12,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,2,15,12,4,15,13,15,vegetative + turion,0.091551024,0.035775211,-5,25
+Spirodela,3,15,12,4,14,12,15,vegetative + turion,0.085801618,0.03853767,-5,25
+Spirodela,5,15,12,4,19,12,15,vegetative + turion,0.111250089,0.114883082,-5,25
+Spirodela,6,15,12,4,18,10,15,vegetative + turion,0.106744487,0.146946666,-5,25
+Spirodela,9,15,12,4,14,12,15,vegetative + turion,0.085801618,0.03853767,-5,25
+Spirodela,10,15,12,4,17,14,15,vegetative + turion,0.101981286,0.048539004,-5,25
+Spirodela,2,20,12,4,25,15,20,vegetative + turion,0.134119826,0.127706406,0,0
+Spirodela,3,20,12,4,23,15,20,vegetative + turion,0.127171359,0.106861004,0,0
+Spirodela,5,20,12,4,27,16,20,vegetative + turion,0.140533246,0.130812036,0,0
+Spirodela,6,20,12,4,33,20,20,vegetative + turion,0.157255804,0.125193822,0,0
+Spirodela,9,20,12,4,40,18,20,vegetative + turion,0.173286795,0.199626924,0,0
+Spirodela,10,20,12,4,24,15,20,vegetative + turion,0.130717993,0.117500907,0,0
+Spirodela,2,25,12,4,20,14,25,vegetative + turion,0.11552453,0.089168736,5,25
+Spirodela,3,25,12,4,37,19,25,vegetative + turion,0.16679,0.166619733,5,25
+Spirodela,5,25,12,4,41,23,25,vegetative + turion,0.175344513,0.144519463,5,25
+Spirodela,6,25,12,4,66,36,25,vegetative + turion,0.215018069,0.151533951,5,25
+Spirodela,9,25,12,4,66,29,25,vegetative + turion,0.215018069,0.205589728,5,25
+Spirodela,10,25,12,4,31,20,25,vegetative + turion,0.152045774,0.109563733,5,25
+Spirodela,2,30,12,4,19,14,30,vegetative + turion,0.111250089,0.076345412,10,100
+Spirodela,3,30,12,4,28,19,30,vegetative + turion,0.143563883,0.096941383,10,100
+Spirodela,5,30,12,4,24,18,30,vegetative + turion,0.130717993,0.071920518,10,100
+Spirodela,6,30,12,4,34,20,30,vegetative + turion,0.159743551,0.132657063,10,100
+Spirodela,9,30,12,4,39,24,30,vegetative + turion,0.171176978,0.121376954,10,100
+Spirodela,10,30,12,4,20,16,30,vegetative + turion,0.11552453,0.055785888,10,100
+Spirodela,2,37,12,4,7,8,37,vegetative + turion,0.028039353,-0.033382848,17,289
+Spirodela,3,37,12,4,11,11,37,vegetative + turion,0.06570478,0,17,289
+Spirodela,5,37,12,4,10,9,37,vegetative + turion,0.057762265,0.026340129,17,289
+Spirodela,6,37,12,4,12,12,37,vegetative + turion,0.072955728,0,17,289
+Spirodela,9,37,12,4,10,10,37,vegetative + turion,0.057762265,0,17,289
+Spirodela,10,37,12,4,12,7,37,vegetative + turion,0.072955728,0.134749125,17,289
+Spirodela,2,3,16,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,3,3,16,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,5,3,16,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,8,3,16,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,6,3,16,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,7,3,16,4,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,2,15,16,4,17,15,15,vegetative + turion,0.076485964,0.031290786,-5,25
+Spirodela,3,15,16,4,17,14,15,vegetative + turion,0.076485964,0.048539004,-5,25
+Spirodela,5,15,16,4,20,19,15,vegetative + turion,0.086643398,0.012823324,-5,25
+Spirodela,6,15,16,4,18,18,15,vegetative + turion,0.080058365,0,-5,25
+Spirodela,9,15,16,4,17,14,15,vegetative + turion,0.076485964,0.048539004,-5,25
+Spirodela,10,15,16,4,20,17,15,vegetative + turion,0.086643398,0.040629732,-5,25
+Spirodela,2,20,16,4,35,25,20,vegetative + turion,0.121619384,0.084118059,0,0
+Spirodela,3,20,16,4,35,23,20,vegetative + turion,0.121619384,0.104963461,0,0
+Spirodela,5,20,16,4,34,27,20,vegetative + turion,0.119807663,0.057630915,0,0
+Spirodela,6,20,16,4,58,33,20,vegetative + turion,0.153187819,0.140983862,0,0
+Spirodela,9,20,16,4,72,40,20,vegetative + turion,0.166701763,0.146946666,0,0
+Spirodela,10,20,16,4,36,24,20,vegetative + turion,0.123380064,0.101366277,0,0
+Spirodela,2,25,16,4,25,20,25,vegetative + turion,0.10058987,0.055785888,5,25
+Spirodela,3,25,16,4,56,37,25,vegetative + turion,0.150994611,0.103608445,5,25
+Spirodela,5,25,16,4,71,41,25,vegetative + turion,0.165827623,0.137276953,5,25
+Spirodela,6,25,16,4,93,66,25,vegetative + turion,0.182697599,0.085736188,5,25
+Spirodela,9,25,16,4,107,66,25,vegetative + turion,0.191461933,0.120793523,5,25
+Spirodela,10,25,16,4,51,31,25,vegetative + turion,0.145149233,0.124459607,5,25
+Spirodela,2,30,16,4,25,19,30,vegetative + turion,0.10058987,0.068609211,10,100
+Spirodela,3,30,16,4,39,28,30,vegetative + turion,0.128382733,0.082839284,10,100
+Spirodela,5,30,16,4,43,24,30,vegetative + turion,0.134485138,0.145786571,10,100
+Spirodela,6,30,16,4,49,34,30,vegetative + turion,0.142648899,0.091364943,10,100
+Spirodela,9,30,16,4,56,39,30,vegetative + turion,0.150994611,0.090447511,10,100
+Spirodela,10,30,16,4,25,20,30,vegetative + turion,0.10058987,0.055785888,10,100
+Spirodela,2,37,16,4,12,7,37,vegetative + turion,0.054716796,0.134749125,17,289
+Spirodela,3,37,16,4,13,11,37,vegetative + turion,0.059719465,0.041763521,17,289
+Spirodela,5,37,16,4,14,10,37,vegetative + turion,0.064351214,0.084118059,17,289
+Spirodela,6,37,16,4,12,12,37,vegetative + turion,0.054716796,0,17,289
+Spirodela,9,37,16,4,14,10,37,vegetative + turion,0.064351214,0.084118059,17,289
+Spirodela,10,37,16,4,13,12,37,vegetative + turion,0.059719465,0.020010677,17,289
+Spirodela,2,3,28,12,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,3,3,28,12,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,5,3,28,12,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,8,3,28,12,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,6,3,28,12,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,7,3,28,12,5,5,3,vegetative + turion,0,0,-17,289
+Spirodela,2,15,28,12,19,17,15,vegetative + turion,0.04767861,0.009268803,-5,25
+Spirodela,3,15,28,12,27,17,15,vegetative + turion,0.060228534,0.03855196,-5,25
+Spirodela,5,15,28,12,27,20,15,vegetative + turion,0.060228534,0.025008716,-5,25
+Spirodela,6,15,28,12,28,18,15,vegetative + turion,0.061527378,0.036819396,-5,25
+Spirodela,9,15,28,12,28,17,15,vegetative + turion,0.061527378,0.041582597,-5,25
+Spirodela,10,15,28,12,27,20,15,vegetative + turion,0.060228534,0.025008716,-5,25
+Spirodela,2,20,28,12,107,35,20,vegetative + turion,0.109406819,0.093123398,0,0
+Spirodela,3,20,28,12,132,35,20,vegetative + turion,0.116905858,0.110621155,0,0
+Spirodela,5,20,28,12,158,34,20,vegetative + turion,0.12332704,0.128019542,0,0
+Spirodela,6,20,28,12,174,58,20,vegetative + turion,0.12677205,0.091551024,0,0
+Spirodela,9,20,28,12,223,72,20,vegetative + turion,0.135633352,0.094208804,0,0
+Spirodela,10,20,28,12,131,36,20,vegetative + turion,0.116634265,0.107639865,0,0
+Spirodela,2,25,28,12,68,25,25,vegetative + turion,0.093216778,0.08338599,5,25
+Spirodela,3,25,28,12,168,56,25,vegetative + turion,0.125518788,0.091551024,5,25
+Spirodela,5,25,28,12,374,71,25,vegetative + turion,0.154100639,0.13846466,5,25
+Spirodela,6,25,28,12,288,93,25,vegetative + turion,0.144768663,0.094196749,5,25
+Spirodela,9,25,28,12,297,107,25,vegetative + turion,0.145867651,0.085075275,5,25
+Spirodela,10,25,28,12,180,51,25,vegetative + turion,0.127982819,0.105094268,5,25
+Spirodela,2,30,28,12,42,25,30,vegetative + turion,0.076008275,0.043232816,10,100
+Spirodela,3,30,28,12,109,39,30,vegetative + turion,0.110068213,0.085648853,10,100
+Spirodela,5,30,28,12,85,43,30,vegetative + turion,0.101186191,0.056787595,10,100
+Spirodela,6,30,28,12,136,49,30,vegetative + turion,0.117972035,0.085069549,10,100
+Spirodela,9,30,28,12,138,56,30,vegetative + turion,0.11849342,0.0751585,10,100
+Spirodela,10,30,28,12,56,25,30,vegetative + turion,0.086282635,0.067206322,10,100
+Spirodela,2,37,28,12,10,12,37,vegetative + turion,0.024755256,-0.015193463,17,289
+Spirodela,3,37,28,12,15,13,37,vegetative + turion,0.039236153,0.01192507,17,289
+Spirodela,5,37,28,12,31,14,37,vegetative + turion,0.065162475,0.066244156,17,289
+Spirodela,6,37,28,12,17,12,37,vegetative + turion,0.043706265,0.029025558,17,289
+Spirodela,9,37,28,12,13,14,37,vegetative + turion,0.034125409,-0.006175664,17,289
+Spirodela,10,37,28,12,24,13,37,vegetative + turion,0.056021997,0.051092039,17,289

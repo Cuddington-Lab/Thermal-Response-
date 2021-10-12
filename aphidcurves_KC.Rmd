@@ -1,0 +1,47 @@
+---
+title: "Pea aphid response to temperature"
+author: "Kim Cuddington (original doc Cory Savage)"
+date: "June 15 2021"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
+```
+```
+
+## Data description and file naming convention
+
+Data files were constructed by .....
+```{r, fig.height=3.5, fig.width=7, 'echo=TRUE', tidy=TRUE}
+
+
+# import data from files 
+patemp <- read.table(file="Siddiqui and Barlow - Extracted Pea aphid fecundity data on Pisum sativum at 15,17.5,22.5,25 deg C.txt", header=T, sep=",")
+
+# check that data was imported properly
+head(patemp)
+```
+
+# Examine the data
+The data is organized into 3 columns...
+
+``````{r, fig.height=3.5, fig.width=7, echo=TRUE, tidy=TRUE}
+
+#plot reproductive output as a function of temp
+plot(patemp$temperature, patemp$young.per.female.per.day)
+
+```
+
+# Problem with this data representation
+So, we have a problem here. Clearly reproductive output is a function of age, but we don't have controlled ages here, simply measured ones, so we cannot create seperate curves for each age. In addition, there are no variance estimates about either age or reproductive output.
+
+Since only temperature has been controlled, we can only reorganize easily on this factor. 
+
+```{r, fig.height=7, fig.width=7, echo=TRUE, tidy=TRUE}
+library(lattice)
+# reorganize the plotting of the data to produce a separate line for each temperature
+xyplot(young.per.female.per.day~age.in.days,type=c('l','p'),groups= temperature,data=patemp,auto.key=T)
+```
